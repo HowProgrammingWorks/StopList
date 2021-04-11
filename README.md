@@ -16,7 +16,7 @@
 ## Frameworks
 
 - [Spring](https://spring.io/)
-- [Hebirnate](https://hibernate.org/)
+- [Hibernate](https://hibernate.org/)
 - [Entity Framework](https://docs.microsoft.com/en-us/ef/ef6/)
 - [Sequelize](https://sequelize.org/)
 - [TypeORM](https://typeorm.io/)
